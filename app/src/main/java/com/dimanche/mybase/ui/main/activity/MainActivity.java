@@ -11,6 +11,7 @@ import com.dimanche.mybase.base.BaseActivity;
 public class MainActivity extends BaseActivity {
     @Override
     protected int getLayout() {
+        String test="";
         return R.layout.activity_main;
     }
 
